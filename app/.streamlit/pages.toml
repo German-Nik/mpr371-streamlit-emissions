@@ -1,0 +1,15 @@
+[[pages]]
+path = "Home.py"
+name = "Главная"
+
+[[pages]]
+path = "pages/01_Login.py"
+name = "Вход"
+
+[[pages]]
+path = "pages/02_User_Input.py"
+name = "Кабинет филиала"
+
+[[pages]]
+path = "pages/03_Admin_Dashboard.py"
+name = "Админ-панель"
